@@ -1,3 +1,4 @@
+//Ahhh we meet again you piece of shit, just how useless are you ...
 package com.example.testproject;
 
 import android.content.ContentValues;
