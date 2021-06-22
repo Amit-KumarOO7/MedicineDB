@@ -1,3 +1,4 @@
+//OMG !! again just die already you son of a vitch 
 package com.example.testproject;
 
 import android.content.BroadcastReceiver;
